@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate Full Stack developer & UI/UX Designer from India</h3>
 
-<img align="right" alt="Code " src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd6ZzF0dGY3aHVreDc4NjF6YmVlc3djOG9obXoxdmZ1eTh6OXZ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="400"> 
+<img align="right" alt="Code " src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd6ZzF0dGY3aHVreDc4NjF6YmVlc3djOG9obXoxdmZ1eTh6OXZ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="320"> 
 
 - 🔭 I’m currently Building [Herbal Garden](https://ag632.github.io/herb-gar/)
 
